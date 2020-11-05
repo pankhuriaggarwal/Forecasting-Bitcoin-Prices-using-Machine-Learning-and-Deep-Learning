@@ -1,4 +1,4 @@
-# Forecasting-using-Deep-Learning
+# Forecasting-Bitcoin-Prices-using-Machine-Learning-and-Deep-Learning
 Forecasting daily values of the Bitcoin using Machine Learning and Deep Learning Models
 
 Methodology:
